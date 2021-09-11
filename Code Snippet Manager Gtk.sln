@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Code Snippet Manager Gtk", "Code Snippet Manager Gtk\Code Snippet Manager Gtk.csproj", "{4A509881-CF90-4647-85E9-E0DDF267FA8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A509881-CF90-4647-85E9-E0DDF267FA8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A509881-CF90-4647-85E9-E0DDF267FA8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A509881-CF90-4647-85E9-E0DDF267FA8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A509881-CF90-4647-85E9-E0DDF267FA8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>WinExe</OutputType>
+        <TargetFramework>netcoreapp5.0</TargetFramework>
+        <RootNamespace>Code_Snippet_Manager_Gtk</RootNamespace>
+        <LangVersion>8</LangVersion>
+        <AssemblyName>Snippets</AssemblyName>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="GtkSharp" Version="3.24.24.34" />
+      <PackageReference Include="GtkSourceSharp" Version="3.24.24.34" />
+      <PackageReference Include="System.Text.Json" Version="5.0.2" />
+    </ItemGroup>
+    
+
+
+
+</Project>
